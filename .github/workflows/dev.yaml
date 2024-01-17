@@ -24,4 +24,3 @@ jobs:
           role-to-assume: ${{ secrets.READ_ROLE }}
           role-session-name: OIDCSession
 
-  
